@@ -21,3 +21,8 @@ pip install -r requirements.txt
 ## Run the Streamlit app
 streamlit run app.py
 
+## Here’s a quick demo of the app:
+
+<video width="600" controls>
+  <source src="https://github.com/edgelearningcentre/Math-Operations-usingAI/blob/main/Screencast%20from%2004-01-25%2011%3A25%3A15%20AM%20IST.webm" type="video/webm">
+</video>
