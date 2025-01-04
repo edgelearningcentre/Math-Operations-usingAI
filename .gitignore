@@ -1,0 +1,7 @@
+data/
+tmp/
+venv/
+.env
+introduction_to_gpt4o.ipynb
+main.ipynb
+
