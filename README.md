@@ -23,5 +23,7 @@ streamlit run app.py
 
 ## Here’s a quick demo of the app:
 
-<video src="https://github.com/edgelearningcentre/Math-Operations-usingAI/blob/main/Screencast%20from%2004-01-25%2011%3A25%3A15%20AM%20IST.mp4" type="video/mp4" controls="controls" style="max-width: 100%; height: auto;">
-</video>
+
+
+https://github.com/user-attachments/assets/a596e5d6-6222-44a3-a7b6-d8788544d9f9
+
